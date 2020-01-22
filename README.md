@@ -1,17 +1,19 @@
 # CrudBackEnd
-React Crud
+Back-end
 
-ferramentas para front end de instalação 
+foi utilizado express.js
 
-Instalação do React.js
+npm install express --save
 
-yarn create react-app my-app
+Cors
+npm install cors
 
-instalação Axios 
+banco de dados utlizado 
+sequelize migração 
 
-npm install axios
+npm install --save sequelize
 
-e o Css foi utilizado materialize 
+e sqlite3 
 
-link: http://localhost:3000
+npm install sqlite3
 

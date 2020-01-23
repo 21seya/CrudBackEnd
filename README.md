@@ -17,3 +17,7 @@ e sqlite3
 
 npm install sqlite3
 
+Link para acessar 
+Node index.js 
+
+localhost:3003
